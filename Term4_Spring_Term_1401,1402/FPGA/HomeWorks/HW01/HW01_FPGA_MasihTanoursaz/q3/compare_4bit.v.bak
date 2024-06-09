@@ -1,0 +1,8 @@
+module compare_4bit (first, second, x, y, z);
+	input wire [0:3]first, [0:3]second;
+	output x, y, z;
+	
+	assign x = first > second;
+	assign y = first < second;
+	assign z = first == second;
+endmodule

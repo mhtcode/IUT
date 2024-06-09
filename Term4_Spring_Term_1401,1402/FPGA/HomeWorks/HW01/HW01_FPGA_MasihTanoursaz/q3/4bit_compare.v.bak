@@ -1,0 +1,7 @@
+module 4bit_compare(first, second, x, y, z);
+	input [0:3]first, [0:3]second;
+	output x, y, z;
+	assign x = first > second;
+	assign y = first < second;
+	assign z = first == second;
+endmodule

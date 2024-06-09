@@ -1,0 +1,15 @@
+C:/Users/masih/Desktop/modelsim/FPG_HW_1/q5/shiftReg_8bit_test.v {1 {vlog -work work -vopt -stats=none C:/Users/masih/Desktop/modelsim/FPG_HW_1/q5/shiftReg_8bit_test.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module shiftReg_8bit_test
+
+Top level modules:
+	shiftReg_8bit_test
+
+} {} {}} C:/Users/masih/Desktop/modelsim/FPG_HW_1/q5/shifReg_8bit.v {1 {vlog -work work -vopt -stats=none C:/Users/masih/Desktop/modelsim/FPG_HW_1/q5/shifReg_8bit.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module shiftReg_8bit
+
+Top level modules:
+	shiftReg_8bit
+
+} {} {}}
