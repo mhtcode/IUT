@@ -36,4 +36,4 @@ To get started with this course, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming
-cd Basic Programming
+cd "Basic Programming"
