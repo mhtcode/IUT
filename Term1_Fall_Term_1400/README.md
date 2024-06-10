@@ -5,7 +5,7 @@ This repository contains all the computer science courses that I have taken duri
 Each course has its own directory with Slides, HomeWorks, Projects, and Exams.
 
 ## Courses
-- [Basic Programming](/Basic%20Programming)
+- [Basic Programming](/Term1_Fall_Term_1400/Basic Programming)
 
 ## Repository Structure
 The repository is organized into directories for each course as follows:
