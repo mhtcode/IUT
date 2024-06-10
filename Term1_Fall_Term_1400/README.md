@@ -8,12 +8,12 @@ Each course has its own directory with Slides, HomeWorks, Projects, and Exams.
 - [Basic Programming](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming)
 
 
-# The repository is organized into directories for each course as follows:
+## The repository is organized into directories for each course as follows:
 
-## Basic Programming
+### Basic Programming
 **Instructor**: Dr. Shirin Baghoolizadeh
 
-### Course Description
+#### Course Description
 The Basic Programming course introduces fundamental programming concepts using Python. Topics include variables, control structures, functions, and basic algorithms.
 
 ### Resources
