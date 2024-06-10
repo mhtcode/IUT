@@ -5,7 +5,7 @@ This repository contains all the computer science courses that I have taken duri
 Each course has its own directory with Slides, HomeWorks, Projects, and Exams.
 
 ## Courses
-- [Basic Programming](/Term1_Fall_Term_1400/Basic Programming)
+- [Basic Programming](https://github.com/mhtcode/IUT/tree/b47c890c6f1fced27f698f05329957f479779f71/Term1_Fall_Term_1400/Basic%20Programming)
 
 ## Repository Structure
 The repository is organized into directories for each course as follows:
