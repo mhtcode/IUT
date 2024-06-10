@@ -12,8 +12,8 @@ This repository contains materials and assignments for the Basic Programming cou
 ## Course Description
 The Basic Programming course introduces the fundamental concepts of programming using [Programming Language, Python, C]. Students will learn about variables, data types, control structures, functions, and basic algorithms.
 
-## Repository Structure
-The repository is organized as follows:
+
+# The repository is organized as follows:
 
 
 ## Slides
@@ -35,5 +35,5 @@ Midterm and final exam materials are in the `/Exams` directory.
 To get started with this course, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mhtcode/basic-programming-course.git
-cd basic-programming-course
+git clone https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming
+cd Basic Programming
