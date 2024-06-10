@@ -34,5 +34,5 @@ To get started with this course, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mhtcode/IUT/tree/main/Term2_Spring_Term_1400%2C1401/Advanced%20Programming
-cd "Basic Programming"
+cd "Advanced Programming"
 
