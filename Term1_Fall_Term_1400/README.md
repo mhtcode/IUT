@@ -9,7 +9,7 @@ Each course has its own directory with Slides, HomeWorks, Projects, and Exams.
 
 
 ## The repository is organized into directories for each course as follows:
-
+```
 ├── Course name/
 │ ├── Slides/
 │ ├── HomeWorks/
