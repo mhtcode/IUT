@@ -1,10 +1,10 @@
 # Discrete Mathematics Course
 
 ## Course Overview
-This repository contains materials and assignments for the Discrete Mathematics course offered at Isfahan University of Technology. The course is supervised by Dr. Shirin Baghoolizadeh.
+This repository contains materials and assignments for the Discrete Mathematics course offered at Isfahan University of Technology. The course is supervised by Dr. Mansoureh Mirzaei.
 
 ## Course Information
-- **Instructor**: Dr. Shirin Baghoolizadeh
+- **Instructor**: Dr. Mansoureh Mirzaei
 - **Institution**: Isfahan University of Technology
 - **Course Code**: [17 30 115 03]
 - **Semester**: [Fall 2021]
