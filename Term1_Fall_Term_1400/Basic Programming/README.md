@@ -25,9 +25,11 @@ HomeWorks are provided in the `/HomeWorks` directory. Each homework folder conta
 ## Projects
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
-- **Project 1**: [Project Title and Description]
-- **Project 2**: [Project Title and Description]
-
+### Project 1: Minesweeper Game
+- **Description**: A mini project written in Python using Tkinter. It is a Minesweeper game that includes authentication, a timer, and additional features.
+- **Directory**: `/Projects/Mini Project`(https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
+  
+### Project 2: [Project Title and Description]
 ## Exams
 Midterm and final exam materials are in the `/Exams` directory.
 
