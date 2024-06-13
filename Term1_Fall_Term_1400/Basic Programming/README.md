@@ -25,10 +25,12 @@ HomeWorks are provided in the `/HomeWorks` directory. Each homework folder conta
 ## [Projects](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects)
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
-- ### [Project 1: Minesweeper Game](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
-  - **Description**: A mini project developed in Python using the Tkinter library. This Minesweeper game allows two users to play fluently. It features user authentication, and a countdown timer, and includes functionality for writing to files. The game saves the history of each user, ensuring a personalized and engaging experience.
-  
-### Project 2: [Project Title and Description]
+### (Project 1: Minesweeper Game)[https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project]
+- A mini project developed in Python using the Tkinter library. This Minesweeper game allows two users to play fluently. It features user authentication, a countdown timer, and includes functionality for writing to files. The game saves the history of each user, ensuring a personalized and engaging experience.
+
+### (Project 2: Football League Simulation)[https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Main%20project]
+- A simulation of a football league developed in C with a colorful command-line interface. This project includes players, teams, coaches, and other essential components of a football league. Users can register and authenticate to interact with the system using the colorful CLI. The project features a league table and beautiful ASCII art to enhance the user experience.
+
 ## Exams
 Midterm and final exam materials are in the `/Exams` directory.
 
