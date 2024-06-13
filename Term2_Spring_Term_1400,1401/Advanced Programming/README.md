@@ -14,10 +14,10 @@ The Advanced Programming course builds on fundamental programming concepts and i
 
 
 ## The repository is organized as follows:
-### HomeWorks
+### [HomeWorks](https://github.com/mhtcode/IUT/tree/main/Term2_Spring_Term_1400%2C1401/Advanced%20Programming/HomeWorks)
 HomeWorks are provided in the `/HomeWorks` directory. Each homework folder contains the homework description, solution template, and my solution.
 
-### Projects
+### [Projects](https://github.com/mhtcode/IUT/tree/main/Term2_Spring_Term_1400%2C1401/Advanced%20Programming/Projects)
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
 - ### Project: Pulp Social Media:
@@ -28,11 +28,8 @@ Course projects are in the `/Projects` directory. These projects are designed to
     - **Features**: Profile management, privacy settings, chat creation, friendship graph, and user search
     - **Threading**: Manages new messages and chat updates 
 
-### Quiz
+### [Quiz](https://github.com/mhtcode/IUT/tree/main/Term2_Spring_Term_1400%2C1401/Advanced%20Programming/Quiz)
 Quizzes are available in the `/Quiz` directory.
-
-### Exams
-Midterm and final exam materials are in the `/Exams` directory.
 
 ### Getting Started
 To get started with this course, clone the repository to your local machine:
