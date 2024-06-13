@@ -25,9 +25,9 @@ HomeWorks are provided in the `/HomeWorks` directory. Each homework folder conta
 ## Projects
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
-### Project 1: Minesweeper Game
+### [Project 1: Minesweeper Game](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
 - **Description**: A mini project written in Python using Tkinter. It is a Minesweeper game that includes authentication, a timer, and additional features.
-- **Directory**: `/Projects/Mini Project`(https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
+- **Directory**: `/Projects/Mini Project`
   
 ### Project 2: [Project Title and Description]
 ## Exams
@@ -38,4 +38,3 @@ To get started with this course, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming
-cd "Basic Programming"
