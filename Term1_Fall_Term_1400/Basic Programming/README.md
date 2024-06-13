@@ -26,7 +26,7 @@ HomeWorks are provided in the `/HomeWorks` directory. Each homework folder conta
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
 - ### [Project 1: Minesweeper Game](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
-  - **Description**: A mini project written in Python using Tkinter. It is a Minesweeper game that includes authentication, a timer, and additional features.
+  - **Description**: A mini project developed in Python using the Tkinter library. This Minesweeper game allows two users to play fluently. It features user authentication, and a countdown timer, and includes functionality for writing to files. The game saves the history of each user, ensuring a personalized and engaging experience.
   
 ### Project 2: [Project Title and Description]
 ## Exams
