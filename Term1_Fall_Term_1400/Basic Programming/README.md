@@ -16,18 +16,17 @@ The Basic Programming course introduces the fundamental concepts of programming 
 # The repository is organized as follows:
 
 
-## Slides
+## [Slides](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Slides)
 Slides and materials are available in the `/Slides` directory.
 
-## HomeWorks
+## [HomeWorks](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/HomeWorks)
 HomeWorks are provided in the `/HomeWorks` directory. Each homework folder contains the homework description, solution template, and my solution.
 
-## Projects
+## [Projects](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects)
 Course projects are in the `/Projects` directory. These projects are designed to give students hands-on experience with real-world programming tasks.
 
 ### [Project 1: Minesweeper Game](https://github.com/mhtcode/IUT/tree/main/Term1_Fall_Term_1400/Basic%20Programming/Projects/Mini%20Project)
 - **Description**: A mini project written in Python using Tkinter. It is a Minesweeper game that includes authentication, a timer, and additional features.
-- **Directory**: `/Projects/Mini Project`
   
 ### Project 2: [Project Title and Description]
 ## Exams
