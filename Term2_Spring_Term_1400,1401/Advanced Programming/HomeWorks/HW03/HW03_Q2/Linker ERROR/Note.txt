@@ -1,0 +1,9 @@
+Hello , 
+
+ I tried to compile Client.cpp but I got a linker Error 
+  
+ 
+ 
+   	C:/Users/tejarat pooya/Pictures/Desktop/h/Client.cpp:6: undefined reference to `TestTemp<int>::TestTemp()'
+	C:/Users/tejarat pooya/Pictures/Desktop/h/Client.cpp:7: undefined reference to `TestTemp<int>::SetValue(int)'
+	C:/Users/tejarat pooya/Pictures/Desktop/h/Client.cpp:8: undefined reference to `TestTemp<int>::Getalue()'
