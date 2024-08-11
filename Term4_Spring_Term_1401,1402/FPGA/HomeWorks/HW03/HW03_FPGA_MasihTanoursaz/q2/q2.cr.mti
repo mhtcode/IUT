@@ -1,8 +1,0 @@
-C:/Users/masih/Desktop/modelsim/FPG_HW_3_MasihTanoursaz_40006133/q2/encoder3.v {1 {vlog -work work -vopt -stats=none C:/Users/masih/Desktop/modelsim/FPG_HW_3_MasihTanoursaz_40006133/q2/encoder3.v
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling UDP encoder3
-
-Top level modules:
-	--none--
-
-} {} {}}
