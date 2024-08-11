@@ -1,0 +1,13 @@
+{% extends "base.html" %} {% block title %}Profile{% endblock %} {% block
+content %}
+<div class="card">
+  <div class="avatar">
+    <img
+      src="https://icons8.com/icon/97613/name"
+      alt="{{ current_user.first_name }}"
+    />
+  </div>
+  <h1>{{ current_user.first_name }}</h1>
+  <h3>{{ current_user.email }}</h3>
+</div>
+{% endblock %}
