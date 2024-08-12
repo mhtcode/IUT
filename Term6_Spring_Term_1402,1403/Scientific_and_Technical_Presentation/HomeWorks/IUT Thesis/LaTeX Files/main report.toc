@@ -1,0 +1,40 @@
+\textbf {\relax $\@@underline {\hbox {\beginR عنوان\endR }}\mathsurround \z@ $\relax }
+\hfill \textbf {\relax $\@@underline {\hbox {\beginR صفحه\endR }}\mathsurround \z@ $\relax }\par 
+\contentsline {section}{فهرست مطالب}{شش}{}%
+\contentsline {section}{فهرست تصاویر}{هشت}{}%
+\contentsline {section}{فهرست جداول}{نه}{}%
+\contentsline {section}{چکیده}{1}{}%
+\contentsline {chapter}{فصل~\numberline {اول\,: مقدمه}}{2}{}%
+\contentsline {section}{\numberline {1-1}مقدمه‌ای بر بلاکچین}{3}{}%
+\contentsline {subsection}{\numberline {1-1-1}مفهوم بلاکچین}{3}{}%
+\contentsline {subsection}{\numberline {1-1-2}نحوه کار بلاکچین}{4}{}%
+\contentsline {subsubsection}{تراکنش‌ها}{4}{}%
+\contentsline {subsubsection}{تایید تراکنش‌ها}{4}{}%
+\contentsline {subsubsection}{ایجاد بلاک جدید}{4}{}%
+\contentsline {subsubsection}{افزودن به زنجیره}{4}{}%
+\contentsline {subsubsection}{توزیع بلاکچین}{5}{}%
+\contentsline {subsection}{\numberline {1-1-3}مزایای بلاکچین}{5}{}%
+\contentsline {subsubsection}{توزیع شدگی}{5}{}%
+\contentsline {subsubsection}{شفافیت}{5}{}%
+\contentsline {subsubsection}{تغییرناپذیری}{5}{}%
+\contentsline {subsubsection}{امنیت}{5}{}%
+\contentsline {section}{\numberline {1-2}مقدمه‌ای بر شبکه‌های پیچیده}{6}{}%
+\contentsline {subsection}{\numberline {1-2-1}ویژگی‌های شبکه‌های پیچیده}{6}{}%
+\contentsline {section}{\numberline {1-3}ساختار شبکه بیت‌کوین\FN@sf@gobble@opt { Bitcoin Network Construction }}{7}{}%
+\contentsline {section}{\numberline {1-4}نمونه‌برداری از شبکه بیت‌کوین}{8}{}%
+\contentsline {subsection}{\numberline {1-4-1}روش نمونه برداری RWFB}{8}{}%
+\contentsline {subsection}{\numberline {1-4-2}ارزیابی روش نمونه‌برداری RWFB}{9}{}%
+\contentsline {chapter}{فصل~\numberline {دوم\,: تحلیل شبکه‌های پیچیده}}{10}{}%
+\contentsline {section}{\numberline {2-1}توزیع درجه\FN@sf@gobble@opt {Degree distribution}}{10}{}%
+\contentsline {section}{\numberline {2-2}ضریب خوشه‌بندی و طول کوتاه‌ترین مسیر\FN@sf@gobble@opt {Clustering coefficient and the shortest-path length}}{11}{}%
+\contentsline {subsection}{\numberline {2-2-1}اثر جهان کوچک در شبکه بیت‌کوین\FN@sf@gobble@opt {Small-world effect}}{11}{}%
+\contentsline {section}{\numberline {2-3}مولفه‌های متصل\FN@sf@gobble@opt {Connected component}}{12}{}%
+\contentsline {section}{\numberline {2-4}مرکزیّت\FN@sf@gobble@opt {Centrality}}{12}{}%
+\contentsline {subsection}{\numberline {2-4-1}مرکزیّت شبکه}{13}{}%
+\contentsline {subsubsection}{مرکزیّت نزدیکی\FN@sf@gobble@opt {Closeness centrality }}{13}{}%
+\contentsline {subsubsection}{مرکزیّت بینابینی\FN@sf@gobble@opt {Betweenness centrality}}{13}{}%
+\contentsline {section}{\numberline {2-5}عدم تناسب\FN@sf@gobble@opt {Disassortativity}}{14}{}%
+\contentsline {section}{\numberline {2-6}ضریب باشگاه ثروت‌مندان\FN@sf@gobble@opt {Rich-club coefficient}}{14}{}%
+\contentsline {chapter}{فصل~\numberline {سوم\,: جمع‌بندی}}{16}{}%
+\contentsline {section}{\numberline {3-1}نتایج}{16}{}%
+\contentsline {section}{مراجع}{18}{}%

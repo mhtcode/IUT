@@ -1,0 +1,32 @@
+%% Appendix 1
+%\chapter{}
+%
+
+% References
+\renewcommand{\bibname}{مراجع}
+\addcontentsline{toc}{section}{مراجع}
+
+\begin{thebibliography}{99}
+
+\begin{latin}
+
+\baselineskip=.7cm
+
+\bibitem{r0}
+\noindent B. Tao, H. -N. Dai, J. Wu, I. W. -H. Ho, Z. Zheng and C. F. Cheang, "Complex Network Analysis of the
+Bitcoin Transaction Network," in IEEE Transactions on Circuits and Systems II: Express Briefs., vol. 69,
+no. 3, pp. 1009-1013, March. 2022
+
+\bibitem{r1}
+\noindent S. Nakamoto, “Bitcoin: a Peer-to-Peer Electronic Cash System,” Oct. 2008. [Online]. Available:
+https://bitcoin.org/bitcoin.pdf
+
+\bibitem{r2}
+\noindent Z. Zheng, S. Xie, H. Dai, X. Chen and H. Wang, "An Overview of Blockchain Technology: Architecture,
+Consensus, and Future Trends," 2017 IEEE International Congress on Big Data (BigData Congress),
+Honolulu, HI, USA, 2017, pp. 557-564.
+
+
+\end{latin}
+
+\end{thebibliography}

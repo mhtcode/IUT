@@ -1,0 +1,100 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=latex 2024.6.12)  12 JUN 2024 23:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./test1.tex
+(test1.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\tejarat pooya\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\tejarat pooya\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\tejarat pooya\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blind
+text.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\tejarat pooya\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.st
+y
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count195
+\c@Blindtext=\count196
+\c@blind@countparstart=\count197
+\blind@countxx=\count198
+\blindtext@numBlindtext=\count199
+\blind@countyy=\count266
+\c@blindlist=\count267
+\c@blindlistlevel=\count268
+\c@blindlist@level=\count269
+\blind@listitem=\count270
+\c@blind@listcount=\count271
+\c@blind@levelcount=\count272
+\blind@mathformula=\count273
+\blind@Mathformula=\count274
+\c@blind@randomcount=\count275
+\c@blind@randommax=\count276
+\c@blind@pangramcount=\count277
+\c@blind@pangrammax=\count278
+)
+(C:\Users\tejarat pooya\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-dvips.def
+File: l3backend-dvips.def 2024-01-04 L3 backend support: dvips
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count279
+\l__pdf_backend_content_box=\box52
+\l__pdf_backend_model_box=\box53
+\g__pdf_backend_annotation_int=\count280
+\g__pdf_backend_link_int=\count281
+\g__pdf_backend_link_sf_int=\count282
+) (test1.aux)
+\openout1 = `test1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+ [1
+
+] (test1.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 633 strings out of 474486
+ 12415 string characters out of 5739948
+ 1924539 words of memory out of 5000000
+ 22994 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,5n,51p,160b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on test1.dvi (1 page, 256 bytes).
