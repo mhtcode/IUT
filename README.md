@@ -1,5 +1,6 @@
 # IUT Academic Collection
 
+![Alt text](https://github.com/mhtcode/IUT/blob/main/IUT_Files/RHS01152.JPG)
 This repository is a personal archive of my academic journey at IUT University during my Bachelor of Science in Computer Engineering. It includes a comprehensive collection of materials from my studies, including:
 
 - **Homework Assignments**: Completed assignments and solutions from various courses.
