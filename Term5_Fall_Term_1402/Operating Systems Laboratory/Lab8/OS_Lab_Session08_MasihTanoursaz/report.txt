@@ -1,0 +1,6 @@
+cd /dev/input
+sudo cat mice
+sudo hexdump -x mice
+sudo apt install evtest
+sudo evtest
+enter 2 to track mouse movements in an understandable way
