@@ -53,6 +53,8 @@ This repository serves as a detailed record of my learning experiences and acade
 - [Computer Networks Laboratory](https://github.com/mhtcode/IUT/tree/main/Term6_Spring_Term_1402%2C1403/Net_Lab)
 - [Scientific and Technical Presentation](https://github.com/mhtcode/IUT/tree/main/Term6_Spring_Term_1402%2C1403/Scientific_and_Technical_Presentation)
 
+#### 6.1. **Summer Internship [PayamPardaz](https://payampardaz.com/en/)**
+
 ## Accessing the Repository
 
 To access the contents:
